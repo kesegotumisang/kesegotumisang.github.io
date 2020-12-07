@@ -17,6 +17,10 @@ defaults:
 
 topics:
   - name: Android
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
+    
+  - name: Android
     web_url: https://github.com/topics/android
     image_url: https://raw.githubusercontent.com/github/explore/a3520d60fbf9b0bdd0b7d563a1a3ed596acd8489/topics/android/android.png
 
@@ -27,3 +31,6 @@ topics:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+
+https://github.com/flutter/flutter
